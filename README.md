@@ -1,3 +1,5 @@
+<a href="https://new-linktree-2024.vercel.app/">Clique aqui para ter acesso ao meu linktree!</a>
+
 <h1>Meu segundo LinkTree 2024</h1>
 
 <p>Este projeto é um LinkTree que direciona para minhas redes sociais, desenvolvido com HTML, CSS e JavaScript. Utilizei as bibliotecas AOS Animation e Particles.JS para adicionar animações e efeitos visuais dinâmicos.</p>
